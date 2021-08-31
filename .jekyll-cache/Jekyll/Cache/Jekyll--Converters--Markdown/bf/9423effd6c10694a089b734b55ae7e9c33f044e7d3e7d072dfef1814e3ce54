@@ -1,0 +1,12 @@
+I""<h1 id="sqli-blind"><a href="#header-1"></a>SQLI Blind</h1>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="nn">requests</span><span class="p">,</span><span class="n">math</span>
+
+<span class="k">def</span> <span class="nf">test</span><span class="p">(</span><span class="n">name</span><span class="p">):</span>
+	<span class="k">return</span> <span class="s">"hello "</span><span class="o">+</span> <span class="n">name</span>
+<span class="n">test</span><span class="p">(</span><span class="s">"juan"</span><span class="p">)</span>
+</code></pre></div></div>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>The final element.
+</code></pre></div></div>
+:ET
