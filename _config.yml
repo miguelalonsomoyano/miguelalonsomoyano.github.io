@@ -1,9 +1,9 @@
-title: Hacker-Blog
-description: "A Jekyll Blog Theme For Hackers"
+title: Miguel Web
+description: "blog"
 author:
-  name: "Unicongrio"
-  email: "unicongrioblog@protonmail.com"
-  url: "https://unicongrio.github.io"
+  name: "Miguel"
+  email: ""
+  url: "https://miguelalonsomoyano.github.io"
 
 baseurl: /
 
@@ -28,5 +28,5 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "Unicongrio"
+owner : "Miguel"
 year : "2021"
